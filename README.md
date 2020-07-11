@@ -15,6 +15,12 @@ I am passionate about technology, in all its aspects, I have lots of IoT devices
 - Email: me _at_ sergiogarcia _dot_ dev
 - PGP ID: [EEA2288D296F6CED1C397779FE75E2ED772A2BF4](https://keys.openpgp.org/search?q=EEA2288D296F6CED1C397779FE75E2ED772A2BF4)
 
+### 🗣 I do speak
+
+- 🇧🇷 Portuguese native
+- 🇺🇸 English fluently
+- 🇦🇷 Spanish pretty well
+
 ### 👷‍♂️ I am currently working with
 
 - Google cloud
@@ -91,5 +97,6 @@ I am passionate about technology, in all its aspects, I have lots of IoT devices
 ### ⚡ Fun fact
 
 - I have three dogs named after Snoopy brothers
-- I love coffee and craft beer
-- I like polytics and how its decisions influence society
+- I love coffee ☕ and craft beer 🍺
+- I like politics and how its decisions influence society
+- I drink mate 🧉 (or as we call it _chimarrão_)
